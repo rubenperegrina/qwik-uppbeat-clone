@@ -2,7 +2,7 @@ import { component$ } from "@builder.io/qwik";
 import { Link } from "@builder.io/qwik-city";
 import { Avatar } from "../avatar/avatar";
 import { Button } from "../button/button";
-import { InputSrc } from "../InputSrc/input-src";
+import { InputSrc } from "../inputSrc/input-src";
 
 export default component$(() => {
 
